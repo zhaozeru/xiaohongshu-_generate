@@ -11,4 +11,4 @@
 2、源码中model实例中，可以把‘openai_api_base’参数去掉
 
 ### 界面展示： 
-![Image text](https://github.com/zhaozeru/Generate-video-script/blob/main/%E7%95%8C%E9%9D%A2%E5%B1%95%E7%A4%BA.png)
+![Image text](https://github.com/zhaozeru/xiaohongshu-_generate/blob/main/UI_display.png)
